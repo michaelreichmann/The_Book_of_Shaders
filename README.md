@@ -1,4 +1,4 @@
-# the Book of Shaders
+# The Book of Shaders
 
 *Max 8.5*
 
